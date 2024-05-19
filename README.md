@@ -22,5 +22,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit-47&show_icons=true&locale=en" alt="ankit-47" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-47&" alt="ankit-47" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=" alt="ankit-47" /></a>
 
