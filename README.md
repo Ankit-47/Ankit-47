@@ -6,7 +6,11 @@
 
 - 🌱 I’m currently learning **REACT JS**
 
+- 👨‍💻 You can know more about me on [ankitkatwal.com.np](ankitkatwal.com.np)
+
 - 💬 Ask me about **Web Devlopment**
+
+- ⚡ Fun fact **I don't think I am Funny**
 
 - 📫 How to reach me **ankitkatwal47@gamil.com**
 
