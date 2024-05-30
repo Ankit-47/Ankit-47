@@ -27,4 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit-47&show_icons=true&locale=en" alt="ankit-47" /></p>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Ankit-47&theme=dark" alt="ankit-47" /></a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ankit-47&theme=react-dark)](https://github.com/Ankit-47/github-readme-activity-graph)
 
