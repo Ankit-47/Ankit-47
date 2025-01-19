@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-47&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-47" /> </p>
 
-- 🌱 I’m currently learning **REACT JS**
+- 🌱 Am I currently learning somthing?
 
 - 👨‍💻 You can know more about me on [ankitkatwal.com.np](ankitkatwal.com.np)
 
 - 💬 Ask me about **Web Devlopment**
 
-- ⚡ Fun fact **I don't think I am Funny**
+- ⚡ Fun fact ***Ask me about **Web Devlopment*****
 
 - 📫 How to reach me **ankitkatwal47@gamil.com**
 
