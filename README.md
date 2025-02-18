@@ -24,8 +24,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ankit-47&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit-47&show_icons=true&theme=radical  )
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-47&layout=donut "height=350" )](https://github.com/anuraghazra/github-readme-stats )
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-47&langs_count=8&layout=compact "height=300 width=300" )](https://github.com/anuraghazra/github-readme-stats )
 
 
 
